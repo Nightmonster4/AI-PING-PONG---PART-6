@@ -1,0 +1,36 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h1{
+    display: inline;
+    font-size:25px;
+}
+
+
+.heading button{
+    border: 1px solid white;
+    float: right;
+}
+
+.back{
+    background-color: yellowgreen;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+#footer{
+    margin: 0px;
+    text-align: center;
+    background-color: grey;
+    width: 100%;
+    font-weight: bold;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px grey;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-top: 80px;
+}
